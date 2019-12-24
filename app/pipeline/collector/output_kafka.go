@@ -5,9 +5,9 @@ import (
 	"regexp"
 	"sync"
 
-	"github.com/henrylee2cn/pholcus/common/kafka"
-	"github.com/henrylee2cn/pholcus/common/util"
-	"github.com/henrylee2cn/pholcus/logs"
+	"github.com/pholcus-go/pholcus/common/kafka"
+	"github.com/pholcus-go/pholcus/common/util"
+	"github.com/pholcus-go/pholcus/logs"
 )
 
 /************************ Kafka 输出 ***************************/

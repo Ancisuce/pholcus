@@ -1,7 +1,7 @@
 package collector
 
 import (
-	"github.com/henrylee2cn/pholcus/logs"
+	"github.com/pholcus-go/pholcus/logs"
 )
 
 var (

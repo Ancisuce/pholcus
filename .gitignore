@@ -34,3 +34,15 @@ pholcus_pkg/history
 pholcus_pkg/logs
 pholcus_pkg/text_out
 .DS_Store
+vendor/
+Godeps/
+
+.idea/
+*.iml
+*.iws
+*.ipr
+
+.vscode/*
+*.code-workspace
+
+.git/

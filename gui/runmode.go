@@ -4,9 +4,9 @@ import (
 	"github.com/lxn/walk"
 	. "github.com/lxn/walk/declarative"
 
-	"github.com/henrylee2cn/pholcus/config"
-	"github.com/henrylee2cn/pholcus/logs"
-	"github.com/henrylee2cn/pholcus/runtime/status"
+	"github.com/pholcus-go/pholcus/config"
+	"github.com/pholcus-go/pholcus/logs"
+	"github.com/pholcus-go/pholcus/runtime/status"
 )
 
 func runmodeWindow() {

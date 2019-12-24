@@ -2,8 +2,8 @@ package collector
 
 import (
 	"fmt"
-	"github.com/henrylee2cn/pholcus/common/util"
-	"github.com/henrylee2cn/pholcus/common/beanstalkd"
+	"github.com/pholcus-go/pholcus/common/util"
+	"github.com/pholcus-go/pholcus/common/beanstalkd"
 	"net/url"
 	"encoding/json"
 	"time"

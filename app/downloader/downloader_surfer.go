@@ -5,10 +5,10 @@ import (
 	"net/http"
 	"net/http/cookiejar"
 
-	"github.com/henrylee2cn/pholcus/app/downloader/request"
-	"github.com/henrylee2cn/pholcus/app/downloader/surfer"
-	"github.com/henrylee2cn/pholcus/app/spider"
-	"github.com/henrylee2cn/pholcus/config"
+	"github.com/pholcus-go/pholcus/app/downloader/request"
+	"github.com/pholcus-go/pholcus/app/downloader/surfer"
+	"github.com/pholcus-go/pholcus/app/spider"
+	"github.com/pholcus-go/pholcus/config"
 )
 
 type Surfer struct {

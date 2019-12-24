@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/henrylee2cn/pholcus/common/mysql"
-	"github.com/henrylee2cn/pholcus/common/util"
-	"github.com/henrylee2cn/pholcus/logs"
+	"github.com/pholcus-go/pholcus/common/mysql"
+	"github.com/pholcus-go/pholcus/common/util"
+	"github.com/pholcus-go/pholcus/logs"
 )
 
 /************************ Mysql 输出 ***************************/

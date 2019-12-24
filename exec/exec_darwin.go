@@ -5,10 +5,10 @@ import (
 	"os/exec"
 	"os/signal"
 
-	"github.com/henrylee2cn/pholcus/config"
+	"github.com/pholcus-go/pholcus/config"
 
-	"github.com/henrylee2cn/pholcus/cmd" // cmd版
-	"github.com/henrylee2cn/pholcus/web" // web版
+	"github.com/pholcus-go/pholcus/cmd" // cmd版
+	"github.com/pholcus-go/pholcus/web" // web版
 )
 
 func run(which string) {
